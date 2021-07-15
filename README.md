@@ -1,2 +1,2 @@
 # blunditBrute
-basic blundit brute force
+basic blundit brute force tool
